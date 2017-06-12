@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6BFE891E-5308-47BA-82B7-5663FA482627}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Aplicacion.Implementacion</RootNamespace>
+    <AssemblyName>Aplicacion.Implementacion</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AutoMapper, Version=6.0.2.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005, processorArchitecture=MSIL">
+      <HintPath>..\packages\AutoMapper.6.0.2\lib\net45\AutoMapper.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Clases\CasaServicio.cs" />
+    <Compile Include="init\ModuleInit.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\Aplicacion.Contratos\Aplicacion.Contratos.csproj">
+      <Project>{7a59124f-8963-4252-8dd1-fa0d852f85d9}</Project>
+      <Name>Aplicacion.Contratos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Aplicacion.Core\Aplicacion.Core.csproj">
+      <Project>{a5180e13-06f3-45fa-befb-9a4ff93b40d2}</Project>
+      <Name>Aplicacion.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Datos.Persistencia.Core\Datos.Persistencia.Core.csproj">
+      <Project>{109b36cf-c300-46d1-bcf2-5f2088d80a71}</Project>
+      <Name>Datos.Persistencia.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Dominio.Contratos\Dominio.Contratos.csproj">
+      <Project>{5f1e47f2-d797-413f-84f2-1495a5cf226a}</Project>
+      <Name>Dominio.Contratos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Dominio.Core\Dominio.Core.csproj">
+      <Project>{36fd298c-fb93-4a6c-a067-d45b1133b433}</Project>
+      <Name>Dominio.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Utilitarios.IoC\Utilitarios.IoC.csproj">
+      <Project>{7fb7cf37-8ad4-44a4-afc6-8965f6535737}</Project>
+      <Name>Utilitarios.IoC</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

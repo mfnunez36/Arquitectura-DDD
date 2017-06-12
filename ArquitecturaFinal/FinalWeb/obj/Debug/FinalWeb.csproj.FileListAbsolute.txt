@@ -1,0 +1,162 @@
+C:\ArquitecturaFinal\FinalWeb\bin\roslyn\csc.exe
+C:\ArquitecturaFinal\FinalWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\ArquitecturaFinal\FinalWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\ArquitecturaFinal\FinalWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\ArquitecturaFinal\FinalWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\ArquitecturaFinal\FinalWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\ArquitecturaFinal\FinalWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\ArquitecturaFinal\FinalWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\ArquitecturaFinal\FinalWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\ArquitecturaFinal\FinalWeb\bin\roslyn\vbc.exe
+C:\ArquitecturaFinal\FinalWeb\bin\roslyn\VBCSCompiler.exe
+C:\ArquitecturaFinal\FinalWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\ArquitecturaFinal\FinalWeb\bin\FinalWeb.dll.config
+C:\ArquitecturaFinal\FinalWeb\bin\FinalWeb.dll
+C:\ArquitecturaFinal\FinalWeb\bin\FinalWeb.pdb
+C:\ArquitecturaFinal\FinalWeb\bin\Antlr3.Runtime.dll
+C:\ArquitecturaFinal\FinalWeb\bin\Aplicacion.Contratos.dll
+C:\ArquitecturaFinal\FinalWeb\bin\Aplicacion.Core.dll
+C:\ArquitecturaFinal\FinalWeb\bin\Aplicacion.Implementacion.dll
+C:\ArquitecturaFinal\FinalWeb\bin\Datos.Persistencia.Core.dll
+C:\ArquitecturaFinal\FinalWeb\bin\Datos.Persistencia.Implementacion.dll
+C:\ArquitecturaFinal\FinalWeb\bin\Datos.Persistencia.Repositorios.dll
+C:\ArquitecturaFinal\FinalWeb\bin\Dominio.Core.dll
+C:\ArquitecturaFinal\FinalWeb\bin\EntityFramework.dll
+C:\ArquitecturaFinal\FinalWeb\bin\EntityFramework.SqlServer.dll
+C:\ArquitecturaFinal\FinalWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\ArquitecturaFinal\FinalWeb\bin\Microsoft.Practices.ServiceLocation.dll
+C:\ArquitecturaFinal\FinalWeb\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\ArquitecturaFinal\FinalWeb\bin\Microsoft.Practices.Unity.dll
+C:\ArquitecturaFinal\FinalWeb\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\ArquitecturaFinal\FinalWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\ArquitecturaFinal\FinalWeb\bin\Newtonsoft.Json.dll
+C:\ArquitecturaFinal\FinalWeb\bin\System.Web.Helpers.dll
+C:\ArquitecturaFinal\FinalWeb\bin\System.Web.Mvc.dll
+C:\ArquitecturaFinal\FinalWeb\bin\System.Web.Optimization.dll
+C:\ArquitecturaFinal\FinalWeb\bin\System.Web.Razor.dll
+C:\ArquitecturaFinal\FinalWeb\bin\System.Web.WebPages.Deployment.dll
+C:\ArquitecturaFinal\FinalWeb\bin\System.Web.WebPages.dll
+C:\ArquitecturaFinal\FinalWeb\bin\System.Web.WebPages.Razor.dll
+C:\ArquitecturaFinal\FinalWeb\bin\Unity.Mvc5.dll
+C:\ArquitecturaFinal\FinalWeb\bin\Utilitarios.IoC.dll
+C:\ArquitecturaFinal\FinalWeb\bin\WebGrease.dll
+C:\ArquitecturaFinal\FinalWeb\bin\AutoMapper.dll
+C:\ArquitecturaFinal\FinalWeb\bin\Dominio.Contratos.dll
+C:\ArquitecturaFinal\FinalWeb\bin\Aplicacion.Contratos.pdb
+C:\ArquitecturaFinal\FinalWeb\bin\Aplicacion.Core.pdb
+C:\ArquitecturaFinal\FinalWeb\bin\Aplicacion.Implementacion.pdb
+C:\ArquitecturaFinal\FinalWeb\bin\Datos.Persistencia.Core.pdb
+C:\ArquitecturaFinal\FinalWeb\bin\Datos.Persistencia.Implementacion.pdb
+C:\ArquitecturaFinal\FinalWeb\bin\Datos.Persistencia.Repositorios.pdb
+C:\ArquitecturaFinal\FinalWeb\bin\Dominio.Core.pdb
+C:\ArquitecturaFinal\FinalWeb\bin\Utilitarios.IoC.pdb
+C:\ArquitecturaFinal\FinalWeb\bin\EntityFramework.xml
+C:\ArquitecturaFinal\FinalWeb\bin\EntityFramework.SqlServer.xml
+C:\ArquitecturaFinal\FinalWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\ArquitecturaFinal\FinalWeb\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\ArquitecturaFinal\FinalWeb\bin\Microsoft.Practices.ServiceLocation.xml
+C:\ArquitecturaFinal\FinalWeb\bin\Microsoft.Practices.Unity.xml
+C:\ArquitecturaFinal\FinalWeb\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\ArquitecturaFinal\FinalWeb\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\ArquitecturaFinal\FinalWeb\bin\System.Web.Helpers.xml
+C:\ArquitecturaFinal\FinalWeb\bin\System.Web.Mvc.xml
+C:\ArquitecturaFinal\FinalWeb\bin\System.Web.Optimization.xml
+C:\ArquitecturaFinal\FinalWeb\bin\System.Web.Razor.xml
+C:\ArquitecturaFinal\FinalWeb\bin\System.Web.WebPages.xml
+C:\ArquitecturaFinal\FinalWeb\bin\System.Web.WebPages.Deployment.xml
+C:\ArquitecturaFinal\FinalWeb\bin\System.Web.WebPages.Razor.xml
+C:\ArquitecturaFinal\FinalWeb\bin\Antlr3.Runtime.pdb
+C:\ArquitecturaFinal\FinalWeb\bin\Newtonsoft.Json.xml
+C:\ArquitecturaFinal\FinalWeb\bin\AutoMapper.xml
+C:\ArquitecturaFinal\FinalWeb\bin\Dominio.Contratos.pdb
+C:\ArquitecturaFinal\FinalWeb\bin\es\System.Web.Helpers.resources.dll
+C:\ArquitecturaFinal\FinalWeb\bin\es\System.Web.Mvc.resources.dll
+C:\ArquitecturaFinal\FinalWeb\bin\es\System.Web.Optimization.resources.dll
+C:\ArquitecturaFinal\FinalWeb\bin\es\System.Web.Razor.resources.dll
+C:\ArquitecturaFinal\FinalWeb\bin\es\System.Web.WebPages.resources.dll
+C:\ArquitecturaFinal\FinalWeb\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\ArquitecturaFinal\FinalWeb\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\ArquitecturaFinal\FinalWeb\obj\Debug\FinalWeb.csprojResolveAssemblyReference.cache
+C:\ArquitecturaFinal\FinalWeb\obj\Debug\FinalWeb.dll
+C:\ArquitecturaFinal\FinalWeb\obj\Debug\FinalWeb.pdb
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\roslyn\csc.exe
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\roslyn\vbc.exe
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\roslyn\VBCSCompiler.exe
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\FinalWeb.dll.config
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\FinalWeb.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\FinalWeb.pdb
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\Antlr3.Runtime.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\Aplicacion.Contratos.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\Aplicacion.Core.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\Aplicacion.Implementacion.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\Datos.Persistencia.Core.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\Datos.Persistencia.Implementacion.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\Datos.Persistencia.Repositorios.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\Dominio.Core.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\EntityFramework.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\EntityFramework.SqlServer.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\Microsoft.Practices.Unity.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\Newtonsoft.Json.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\System.Web.Helpers.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\System.Web.Mvc.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\System.Web.Optimization.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\System.Web.Razor.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\System.Web.WebPages.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\System.Web.WebPages.Razor.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\Unity.Mvc5.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\Utilitarios.IoC.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\WebGrease.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\AutoMapper.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\Dominio.Contratos.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\Aplicacion.Contratos.pdb
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\Aplicacion.Core.pdb
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\Aplicacion.Implementacion.pdb
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\Datos.Persistencia.Core.pdb
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\Datos.Persistencia.Implementacion.pdb
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\Datos.Persistencia.Repositorios.pdb
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\Dominio.Core.pdb
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\Utilitarios.IoC.pdb
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\EntityFramework.xml
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\EntityFramework.SqlServer.xml
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\Microsoft.Practices.Unity.xml
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\System.Web.Helpers.xml
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\System.Web.Mvc.xml
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\System.Web.Optimization.xml
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\System.Web.Razor.xml
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\System.Web.WebPages.xml
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\System.Web.WebPages.Razor.xml
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\Antlr3.Runtime.pdb
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\Newtonsoft.Json.xml
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\AutoMapper.xml
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\Dominio.Contratos.pdb
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\es\System.Web.Helpers.resources.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\es\System.Web.Mvc.resources.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\es\System.Web.Optimization.resources.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\es\System.Web.Razor.resources.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\es\System.Web.WebPages.resources.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\obj\Debug\FinalWeb.csprojResolveAssemblyReference.cache
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\obj\Debug\FinalWeb.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\FinalWeb\obj\Debug\FinalWeb.pdb

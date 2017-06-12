@@ -1,0 +1,28 @@
+C:\ArquitecturaFinal\Datos.Persistencia.Core\bin\Debug\Datos.Persistencia.Core.dll.config
+C:\ArquitecturaFinal\Datos.Persistencia.Core\bin\Debug\Datos.Persistencia.Core.dll
+C:\ArquitecturaFinal\Datos.Persistencia.Core\bin\Debug\Datos.Persistencia.Core.pdb
+C:\ArquitecturaFinal\Datos.Persistencia.Core\bin\Debug\Dominio.Core.dll
+C:\ArquitecturaFinal\Datos.Persistencia.Core\bin\Debug\EntityFramework.dll
+C:\ArquitecturaFinal\Datos.Persistencia.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\ArquitecturaFinal\Datos.Persistencia.Core\bin\Debug\Dominio.Core.pdb
+C:\ArquitecturaFinal\Datos.Persistencia.Core\bin\Debug\EntityFramework.xml
+C:\ArquitecturaFinal\Datos.Persistencia.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\ArquitecturaFinal\Datos.Persistencia.Core\obj\Debug\Datos.Persistencia.Core.csprojResolveAssemblyReference.cache
+C:\ArquitecturaFinal\Datos.Persistencia.Core\obj\Debug\Datos.Persistencia.Core.Migrations.inicial.resources
+C:\ArquitecturaFinal\Datos.Persistencia.Core\obj\Debug\Datos.Persistencia.Core.csproj.GenerateResource.Cache
+C:\ArquitecturaFinal\Datos.Persistencia.Core\obj\Debug\Datos.Persistencia.Core.dll
+C:\ArquitecturaFinal\Datos.Persistencia.Core\obj\Debug\Datos.Persistencia.Core.pdb
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\Datos.Persistencia.Core\bin\Debug\Datos.Persistencia.Core.dll.config
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\Datos.Persistencia.Core\bin\Debug\Datos.Persistencia.Core.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\Datos.Persistencia.Core\bin\Debug\Datos.Persistencia.Core.pdb
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\Datos.Persistencia.Core\bin\Debug\Dominio.Core.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\Datos.Persistencia.Core\bin\Debug\EntityFramework.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\Datos.Persistencia.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\Datos.Persistencia.Core\bin\Debug\Dominio.Core.pdb
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\Datos.Persistencia.Core\bin\Debug\EntityFramework.xml
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\Datos.Persistencia.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\Datos.Persistencia.Core\obj\Debug\Datos.Persistencia.Core.csprojResolveAssemblyReference.cache
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\Datos.Persistencia.Core\obj\Debug\Datos.Persistencia.Core.Migrations.inicial.resources
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\Datos.Persistencia.Core\obj\Debug\Datos.Persistencia.Core.csproj.GenerateResource.Cache
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\Datos.Persistencia.Core\obj\Debug\Datos.Persistencia.Core.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\Datos.Persistencia.Core\obj\Debug\Datos.Persistencia.Core.pdb

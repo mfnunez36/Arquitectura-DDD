@@ -1,0 +1,58 @@
+C:\ArquitecturaFinal\Datos.Persistencia.Implementacion\bin\Debug\Datos.Persistencia.Implementacion.dll.config
+C:\ArquitecturaFinal\Datos.Persistencia.Implementacion\bin\Debug\Datos.Persistencia.Implementacion.dll
+C:\ArquitecturaFinal\Datos.Persistencia.Implementacion\bin\Debug\Datos.Persistencia.Implementacion.pdb
+C:\ArquitecturaFinal\Datos.Persistencia.Implementacion\bin\Debug\Datos.Persistencia.Core.dll
+C:\ArquitecturaFinal\Datos.Persistencia.Implementacion\bin\Debug\Datos.Persistencia.Repositorios.dll
+C:\ArquitecturaFinal\Datos.Persistencia.Implementacion\bin\Debug\Dominio.Contratos.dll
+C:\ArquitecturaFinal\Datos.Persistencia.Implementacion\bin\Debug\Dominio.Core.dll
+C:\ArquitecturaFinal\Datos.Persistencia.Implementacion\bin\Debug\EntityFramework.dll
+C:\ArquitecturaFinal\Datos.Persistencia.Implementacion\bin\Debug\EntityFramework.SqlServer.dll
+C:\ArquitecturaFinal\Datos.Persistencia.Implementacion\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\ArquitecturaFinal\Datos.Persistencia.Implementacion\bin\Debug\Utilitarios.IoC.dll
+C:\ArquitecturaFinal\Datos.Persistencia.Implementacion\bin\Debug\Microsoft.Practices.Unity.dll
+C:\ArquitecturaFinal\Datos.Persistencia.Implementacion\bin\Debug\AutoMapper.dll
+C:\ArquitecturaFinal\Datos.Persistencia.Implementacion\bin\Debug\Aplicacion.Core.dll
+C:\ArquitecturaFinal\Datos.Persistencia.Implementacion\bin\Debug\Datos.Persistencia.Core.pdb
+C:\ArquitecturaFinal\Datos.Persistencia.Implementacion\bin\Debug\Datos.Persistencia.Repositorios.pdb
+C:\ArquitecturaFinal\Datos.Persistencia.Implementacion\bin\Debug\Dominio.Contratos.pdb
+C:\ArquitecturaFinal\Datos.Persistencia.Implementacion\bin\Debug\Dominio.Core.pdb
+C:\ArquitecturaFinal\Datos.Persistencia.Implementacion\bin\Debug\Utilitarios.IoC.pdb
+C:\ArquitecturaFinal\Datos.Persistencia.Implementacion\bin\Debug\EntityFramework.xml
+C:\ArquitecturaFinal\Datos.Persistencia.Implementacion\bin\Debug\EntityFramework.SqlServer.xml
+C:\ArquitecturaFinal\Datos.Persistencia.Implementacion\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\ArquitecturaFinal\Datos.Persistencia.Implementacion\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\ArquitecturaFinal\Datos.Persistencia.Implementacion\bin\Debug\Microsoft.Practices.Unity.xml
+C:\ArquitecturaFinal\Datos.Persistencia.Implementacion\bin\Debug\AutoMapper.xml
+C:\ArquitecturaFinal\Datos.Persistencia.Implementacion\bin\Debug\Aplicacion.Core.pdb
+C:\ArquitecturaFinal\Datos.Persistencia.Implementacion\obj\Debug\Datos.Persistencia.Implementacion.csprojResolveAssemblyReference.cache
+C:\ArquitecturaFinal\Datos.Persistencia.Implementacion\obj\Debug\Datos.Persistencia.Implementacion.dll
+C:\ArquitecturaFinal\Datos.Persistencia.Implementacion\obj\Debug\Datos.Persistencia.Implementacion.pdb
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\Datos.Persistencia.Implementacion\bin\Debug\Datos.Persistencia.Implementacion.dll.config
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\Datos.Persistencia.Implementacion\bin\Debug\Datos.Persistencia.Implementacion.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\Datos.Persistencia.Implementacion\bin\Debug\Datos.Persistencia.Implementacion.pdb
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\Datos.Persistencia.Implementacion\bin\Debug\Datos.Persistencia.Core.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\Datos.Persistencia.Implementacion\bin\Debug\Datos.Persistencia.Repositorios.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\Datos.Persistencia.Implementacion\bin\Debug\Dominio.Contratos.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\Datos.Persistencia.Implementacion\bin\Debug\Dominio.Core.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\Datos.Persistencia.Implementacion\bin\Debug\EntityFramework.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\Datos.Persistencia.Implementacion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\Datos.Persistencia.Implementacion\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\Datos.Persistencia.Implementacion\bin\Debug\Utilitarios.IoC.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\Datos.Persistencia.Implementacion\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\Datos.Persistencia.Implementacion\bin\Debug\AutoMapper.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\Datos.Persistencia.Implementacion\bin\Debug\Aplicacion.Core.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\Datos.Persistencia.Implementacion\bin\Debug\Datos.Persistencia.Core.pdb
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\Datos.Persistencia.Implementacion\bin\Debug\Datos.Persistencia.Repositorios.pdb
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\Datos.Persistencia.Implementacion\bin\Debug\Dominio.Contratos.pdb
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\Datos.Persistencia.Implementacion\bin\Debug\Dominio.Core.pdb
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\Datos.Persistencia.Implementacion\bin\Debug\Utilitarios.IoC.pdb
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\Datos.Persistencia.Implementacion\bin\Debug\EntityFramework.xml
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\Datos.Persistencia.Implementacion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\Datos.Persistencia.Implementacion\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\Datos.Persistencia.Implementacion\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\Datos.Persistencia.Implementacion\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\Datos.Persistencia.Implementacion\bin\Debug\AutoMapper.xml
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\Datos.Persistencia.Implementacion\bin\Debug\Aplicacion.Core.pdb
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\Datos.Persistencia.Implementacion\obj\Debug\Datos.Persistencia.Implementacion.csprojResolveAssemblyReference.cache
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\Datos.Persistencia.Implementacion\obj\Debug\Datos.Persistencia.Implementacion.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\Datos.Persistencia.Implementacion\obj\Debug\Datos.Persistencia.Implementacion.pdb

@@ -1,0 +1,9 @@
+C:\ArquitecturaFinal\Dominio.Core\bin\Debug\Dominio.Core.dll
+C:\ArquitecturaFinal\Dominio.Core\bin\Debug\Dominio.Core.pdb
+C:\ArquitecturaFinal\Dominio.Core\obj\Debug\Dominio.Core.dll
+C:\ArquitecturaFinal\Dominio.Core\obj\Debug\Dominio.Core.pdb
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\Dominio.Core\bin\Debug\Dominio.Core.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\Dominio.Core\bin\Debug\Dominio.Core.pdb
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\Dominio.Core\obj\Debug\Dominio.Core.csprojResolveAssemblyReference.cache
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\Dominio.Core\obj\Debug\Dominio.Core.dll
+C:\Dropbox\Ramos\03 - PRIMER SEMESTRE 2017\02 - Programacion_Clases\11 - ArquitecturaFinal\ArquitecturaFinal\Dominio.Core\obj\Debug\Dominio.Core.pdb
