@@ -1,0 +1,16 @@
+C:\Users\mfnun\Documents\Visual Studio 2017\Projects\ControlAsistencia\Datos.Persistencia.Repositorios\bin\Debug\Datos.Persistencia.Repositorios.dll.config
+C:\Users\mfnun\Documents\Visual Studio 2017\Projects\ControlAsistencia\Datos.Persistencia.Repositorios\bin\Debug\Datos.Persistencia.Repositorios.dll
+C:\Users\mfnun\Documents\Visual Studio 2017\Projects\ControlAsistencia\Datos.Persistencia.Repositorios\bin\Debug\Datos.Persistencia.Repositorios.pdb
+C:\Users\mfnun\Documents\Visual Studio 2017\Projects\ControlAsistencia\Datos.Persistencia.Repositorios\bin\Debug\Datos.Persistencia.Core.dll
+C:\Users\mfnun\Documents\Visual Studio 2017\Projects\ControlAsistencia\Datos.Persistencia.Repositorios\bin\Debug\Dominio.Core.dll
+C:\Users\mfnun\Documents\Visual Studio 2017\Projects\ControlAsistencia\Datos.Persistencia.Repositorios\bin\Debug\EntityFramework.dll
+C:\Users\mfnun\Documents\Visual Studio 2017\Projects\ControlAsistencia\Datos.Persistencia.Repositorios\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mfnun\Documents\Visual Studio 2017\Projects\ControlAsistencia\Datos.Persistencia.Repositorios\bin\Debug\Datos.Persistencia.Core.pdb
+C:\Users\mfnun\Documents\Visual Studio 2017\Projects\ControlAsistencia\Datos.Persistencia.Repositorios\bin\Debug\Datos.Persistencia.Core.dll.config
+C:\Users\mfnun\Documents\Visual Studio 2017\Projects\ControlAsistencia\Datos.Persistencia.Repositorios\bin\Debug\Dominio.Core.pdb
+C:\Users\mfnun\Documents\Visual Studio 2017\Projects\ControlAsistencia\Datos.Persistencia.Repositorios\bin\Debug\Dominio.Core.dll.config
+C:\Users\mfnun\Documents\Visual Studio 2017\Projects\ControlAsistencia\Datos.Persistencia.Repositorios\bin\Debug\EntityFramework.xml
+C:\Users\mfnun\Documents\Visual Studio 2017\Projects\ControlAsistencia\Datos.Persistencia.Repositorios\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mfnun\Documents\Visual Studio 2017\Projects\ControlAsistencia\Datos.Persistencia.Repositorios\obj\Debug\Datos.Persistencia.Repositorios.csprojResolveAssemblyReference.cache
+C:\Users\mfnun\Documents\Visual Studio 2017\Projects\ControlAsistencia\Datos.Persistencia.Repositorios\obj\Debug\Datos.Persistencia.Repositorios.dll
+C:\Users\mfnun\Documents\Visual Studio 2017\Projects\ControlAsistencia\Datos.Persistencia.Repositorios\obj\Debug\Datos.Persistencia.Repositorios.pdb

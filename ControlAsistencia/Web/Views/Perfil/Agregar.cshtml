@@ -1,0 +1,50 @@
+﻿@model Aplicacion.Core.PerfilDTO
+
+@{
+    ViewBag.Title = "Agregar";
+}
+
+<section>
+    <div class="container">
+        <div class="row">
+            <h3>AGREGAR PERFIL</h3><br />
+            @using (Html.BeginForm("Agregar", "Perfil", new { @class = "" }))
+            {
+                <div class="form-horizontal">
+                    <div class="form-group">
+                        <label for="nombre" class="control-label col-md-2">NOMBRE : </label>
+                        <div class="col-md-4">
+                            @Html.TextBoxFor(model => model.nombre, new { @class = "form-control", placeholder = "Nombre", @id = "txtNombre" })
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="descripcion" class="control-label col-md-2">DESCRIPCION : </label>
+                        <div class="col-md-4">
+                            @Html.TextAreaFor(model => model.descripcion, new { @class = "form-control", placeholder = "Descripcion", @id = "txtDescripcion" })
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-md-2 control-label">VIGENTE : </label>
+                        <div class="col-md-4">
+                            <input type="checkbox" checked="checked" id="chkVigente" />
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-md-offset-2">
+                            <input type="button" class="btn btn-default" id="btnAgregar" value="Agregar">
+                            <input type="button" class="btn btn-default" id="btnLimpiar" value="Limpiar">
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+
+    <div>
+        @Html.ActionLink("VOLVER", "Index")
+    </div>
+</section>
+
+@section Scripts {
+    <script src="~/Scripts/core/perfil.js"></script>
+}

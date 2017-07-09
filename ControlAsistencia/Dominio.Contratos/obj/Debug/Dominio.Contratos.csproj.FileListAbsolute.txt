@@ -1,0 +1,13 @@
+C:\Users\mfnun\Documents\Visual Studio 2017\Projects\ControlAsistencia\Dominio.Contratos\bin\Debug\Dominio.Contratos.dll.config
+C:\Users\mfnun\Documents\Visual Studio 2017\Projects\ControlAsistencia\Dominio.Contratos\bin\Debug\Dominio.Contratos.dll
+C:\Users\mfnun\Documents\Visual Studio 2017\Projects\ControlAsistencia\Dominio.Contratos\bin\Debug\Dominio.Contratos.pdb
+C:\Users\mfnun\Documents\Visual Studio 2017\Projects\ControlAsistencia\Dominio.Contratos\bin\Debug\Dominio.Core.dll
+C:\Users\mfnun\Documents\Visual Studio 2017\Projects\ControlAsistencia\Dominio.Contratos\bin\Debug\EntityFramework.dll
+C:\Users\mfnun\Documents\Visual Studio 2017\Projects\ControlAsistencia\Dominio.Contratos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mfnun\Documents\Visual Studio 2017\Projects\ControlAsistencia\Dominio.Contratos\bin\Debug\Dominio.Core.pdb
+C:\Users\mfnun\Documents\Visual Studio 2017\Projects\ControlAsistencia\Dominio.Contratos\bin\Debug\Dominio.Core.dll.config
+C:\Users\mfnun\Documents\Visual Studio 2017\Projects\ControlAsistencia\Dominio.Contratos\bin\Debug\EntityFramework.xml
+C:\Users\mfnun\Documents\Visual Studio 2017\Projects\ControlAsistencia\Dominio.Contratos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mfnun\Documents\Visual Studio 2017\Projects\ControlAsistencia\Dominio.Contratos\obj\Debug\Dominio.Contratos.csprojResolveAssemblyReference.cache
+C:\Users\mfnun\Documents\Visual Studio 2017\Projects\ControlAsistencia\Dominio.Contratos\obj\Debug\Dominio.Contratos.dll
+C:\Users\mfnun\Documents\Visual Studio 2017\Projects\ControlAsistencia\Dominio.Contratos\obj\Debug\Dominio.Contratos.pdb
